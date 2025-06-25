@@ -16,7 +16,7 @@
 ---
 
 ### 💪 Skills & Tools
-- Frontend: JavaScript, React, Tailwind, Context API, TanStack Query
+- Frontend: JavaScript, React, Tailwind, Context API, TanStack Query, Axios
 - Backend: Node.js, Express.js, MongoDB, REST API, JWT, Cookie-Parser
 - Tools & Platforms: Git, GitHub, VS Code, Firebase, Vercel, Stripe, ImgBB
 
