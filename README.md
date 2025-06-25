@@ -50,8 +50,7 @@
 |--------|-------------|-----------|
 | 🏥 **[MediCamp](https://medicamp-d8e07.web.app/)** | Medical Camp Management System using MERN & Stripe | [GitHub](https://github.com/momin096/MediCamp-client) |
 | 🌍 **[TalkVerse](https://talk-verse-117af.web.app/)** | Language Tutor Booking Platform like Preply | [GitHub](https://github.com/momin096/talk-verse-client) |
-| 🏀 **[SportSphere](https://your-sport-site.netlify.app)** | Sports equipment e-commerce site | [GitHub](https://github.com/yourusername/sport-sphere) |
-| 📰 **News Portal** | News platform with user auth and dashboard | [GitHub](https://github.com/yourusername/news-portal) |
+| 🏀 **[SportSphere](https://sport-sphere-ff210.web.app/)** | Sports equipment e-commerce site | [GitHub](https://github.com/momin096/SportSphere-client) |
 
 ---
 
@@ -66,9 +65,8 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/your-link)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammad-momin096/)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:momin09609@gmail.com)
 
 ---
 
