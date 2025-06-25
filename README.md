@@ -58,8 +58,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?momin096=mominm98&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mominm98&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mominm096&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mominm096&theme=radical" width="48%" />
 </p>
 
 ---
