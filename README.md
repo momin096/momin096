@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me
 - 💻 I'm currently building full-stack and frontend projects using React, Tailwind, Firebase, Context API, Node.js, Express,MongoDB, Stripe.
 - 🚀 I’ve built several full-stack projects using **React, Node.js, Express, MongoDB**
-- 🧠 Always exploring new tech and improving my backend skills
+- 🧠 Always exploring new tech and improving my skills
 - 🐾 I love animals and coding
 
 ---
