@@ -8,11 +8,17 @@
 ---
 
 ### 🧑‍💻 About Me
-- 💻 I’m currently learning **Next.js & MongoDB**
+- 💻 I'm currently building full-stack and frontend projects using React, Tailwind, Firebase, Context API, Node.js, Express,MongoDB, Stripe.
 - 🚀 I’ve built several full-stack projects using **React, Node.js, Express, MongoDB**
 - 🧠 Always exploring new tech and improving my backend skills
-- 🌍 Based in **Bhola, Barishal, Bangladesh**
-- 🐾 I love animals and coding equally
+- 🐾 I love animals and coding
+
+---
+
+### 💪 Skills & Tools
+- Frontend: JavaScript, React, Tailwind, Context API, TanStack Query
+- Backend: Node.js, Express.js, MongoDB, REST API, JWT, Cookie-Parser
+- Tools & Platforms: Git, GitHub, VS Code, Firebase, Vercel, Stripe, ImgBB
 
 ---
 
@@ -23,7 +29,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
 
 #### Backend & DB
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
