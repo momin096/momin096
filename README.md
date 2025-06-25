@@ -48,7 +48,7 @@
 
 | Project | Description | Live Link |
 |--------|-------------|-----------|
-| 🏥 **[MediCamp](https://your-medicamp-site.netlify.ap](https://medicamp-d8e07.web.app/))** | Medical Camp Management System using MERN & Stripe | [GitHub](https://github.com/yourusername/medi-camp](https://github.com/momin096/MediCamp-client)) |
+| 🏥 **[MediCamp](https://medicamp-d8e07.web.app/)** | Medical Camp Management System using MERN & Stripe | [GitHub](https://github.com/momin096/MediCamp-client) |
 | 🐶 **[Pet Adoption](https://breset9a6-pet-adoption.netlify.app/)** | Platform to adopt rescued animals | [GitHub](https://github.com/yourusername/pet-adoption) |
 | 🌍 **[TalkVerse](https://your-talkverse.netlify.app)** | Language Tutor Booking Platform like Preply | [GitHub](https://github.com/yourusername/talkverse) |
 | 🏀 **[SportSphere](https://your-sport-site.netlify.app)** | Sports equipment e-commerce site | [GitHub](https://github.com/yourusername/sport-sphere) |
